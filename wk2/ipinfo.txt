@@ -1,0 +1,74 @@
+Checking Domain Name
+
+Domain Name: cnn.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 151.101.129.67
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+Reverse DNS entry: not found
+----------------------------------------------------------------------------------
+Checking Domain Name
+
+Domain Name: reddit.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 151.101.129.140
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+Reverse DNS entry: not found
+----------------------------------------------------------------------------------
+Checking Domain Name
+
+Domain Name: github.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 140.82.112.4
+
+Geolocation: US (United States), MA, Massachusetts, 02110 Boston - Google Maps
+
+Reverse DNS: lb-140-82-112-4-iad.github.com
+------------------------------------------------------------------------------
+Checking Domain Name
+
+Domain Name: ea.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 104.106.255.245
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+Reverse DNS: a104-106-255-245.deploy.static.akamaitechnologies.com
+---------------------------------------------------------------------------------
+Checking Domain Name
+
+Domain Name: realtor.ca
+
+Top Level Domain: CA (Canada)
+
+DNS Lookup
+
+IP Address: 45.223.18.18
+
+Geolocation: US (United States), CA, California, 94065 Redwood City - Google Maps
+
+Reverse DNS entry: not found
+
+
+
+
+
