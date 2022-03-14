@@ -1,0 +1,65 @@
+04:27:05.486805 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7315004:7315224, ack 4177, win 501, length 220
+04:27:05.486980 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7315224:7315444, ack 4177, win 501, length 220
+04:27:05.487130 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7315444:7315664, ack 4177, win 501, length 220
+04:27:05.487251 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7315664:7315884, ack 4177, win 501, length 220
+04:27:05.487350 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7315884:7316104, ack 4177, win 501, length 220
+04:27:05.487425 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7303124, win 590, length 0
+04:27:05.487426 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7304212, win 586, length 0
+04:27:05.487460 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7304652, win 584, length 0
+04:27:05.487512 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7305532, win 580, length 0
+04:27:05.487577 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7316104:7316972, ack 4177, win 501, length 868
+04:27:05.487681 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7316972:7317192, ack 4177, win 501, length 220
+04:27:05.487774 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7317192:7317412, ack 4177, win 501, length 220
+04:27:05.487866 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7317412:7317632, ack 4177, win 501, length 220
+04:27:05.487964 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7317632:7317852, ack 4177, win 501, length 220
+04:27:05.488061 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7317852:7318072, ack 4177, win 501, length 220
+04:27:05.488144 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7318072:7318292, ack 4177, win 501, length 220
+04:27:05.488236 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7318292:7318512, ack 4177, win 501, length 220
+04:27:05.488326 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7318512:7318732, ack 4177, win 501, length 220
+04:27:05.488433 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7307720, win 572, length 0
+04:27:05.488509 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7318732:7318952, ack 4177, win 501, length 220
+04:27:05.488538 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7308160, win 570, length 0
+04:27:05.488538 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7308380, win 569, length 0
+04:27:05.488653 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7318952:7319148, ack 4177, win 501, length 196
+04:27:05.488691 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7319148:7319696, ack 4177, win 501, length 548
+04:27:05.488791 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7319696:7320100, ack 4177, win 501, length 404
+04:27:05.488879 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7320100:7320320, ack 4177, win 501, length 220
+04:27:05.488972 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7320320:7320540, ack 4177, win 501, length 220
+04:27:05.489054 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7320540:7320760, ack 4177, win 501, length 220
+04:27:05.489158 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7320760:7320980, ack 4177, win 501, length 220
+04:27:05.489287 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7320980:7321200, ack 4177, win 501, length 220
+04:27:05.489383 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7321200:7321420, ack 4177, win 501, length 220
+04:27:05.489426 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7308820, win 568, length 0
+04:27:05.489426 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7311008, win 559, length 0
+04:27:05.489524 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7311228, win 558, length 0
+04:27:05.489567 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7321420:7321968, ack 4177, win 501, length 548
+04:27:05.489684 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7321968:7322348, ack 4177, win 501, length 380
+04:27:05.489769 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7322348:7322568, ack 4177, win 501, length 220
+04:27:05.489859 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7322568:7322788, ack 4177, win 501, length 220
+04:27:05.489953 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7322788:7323008, ack 4177, win 501, length 220
+04:27:05.490035 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7323008:7323228, ack 4177, win 501, length 220
+04:27:05.490117 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7323228:7323448, ack 4177, win 501, length 220
+04:27:05.490206 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7323448:7323668, ack 4177, win 501, length 220
+04:27:05.490292 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7323668:7323888, ack 4177, win 501, length 220
+04:27:05.490380 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7323888:7324108, ack 4177, win 501, length 220
+04:27:05.490452 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7311668, win 556, length 0
+04:27:05.490452 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7312816, win 552, length 0
+04:27:05.490452 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7313476, win 549, length 0
+04:27:05.490559 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7324108:7324816, ack 4177, win 501, length 708
+04:27:05.490643 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7324816:7325036, ack 4177, win 501, length 220
+04:27:05.490726 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7325036:7325256, ack 4177, win 501, length 220
+04:27:05.490807 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7325256:7325476, ack 4177, win 501, length 220
+04:27:05.490888 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7325476:7325696, ack 4177, win 501, length 220
+04:27:05.490982 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7325696:7325916, ack 4177, win 501, length 220
+04:27:05.491066 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7325916:7326136, ack 4177, win 501, length 220
+04:27:05.491148 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7326136:7326356, ack 4177, win 501, length 220
+04:27:05.491230 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7326356:7326576, ack 4177, win 501, length 220
+04:27:05.491344 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929: Flags [P.], seq 7326576:7326796, ack 4177, win 501, length 220
+04:27:05.491439 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7314136, win 547, length 0
+04:27:05.491439 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 4177:4249, ack 7314136, win 547, length 72
+04:27:05.491439 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7314136, win 1026, length 0
+04:27:05.491468 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7315444, win 1021, length 0
+04:27:05.491529 IP bras-base-fteron0226w-grc-11-174-91-92-110.dsl.bell.ca.58929 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 7315664, win 1020, length 0
+35742 packets captured
+35757 packets received by filter
+15 packets dropped by kernel
