@@ -1,0 +1,3 @@
+sudo service sshd restart
+deniz@desktop MINGW64 ~
+$ ssh root@68.183.198.137 -p 2222
